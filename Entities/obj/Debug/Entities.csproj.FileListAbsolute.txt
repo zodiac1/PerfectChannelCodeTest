@@ -1,0 +1,8 @@
+C:\Users\lcr\documents\visual studio 2015\Projects\PerfectChannelCodeTest\Entities\bin\Debug\Entities.dll
+C:\Users\lcr\documents\visual studio 2015\Projects\PerfectChannelCodeTest\Entities\bin\Debug\Entities.pdb
+C:\Users\lcr\documents\visual studio 2015\Projects\PerfectChannelCodeTest\Entities\obj\Debug\Entities.dll
+C:\Users\lcr\documents\visual studio 2015\Projects\PerfectChannelCodeTest\Entities\obj\Debug\Entities.pdb
+C:\Users\lcr\Documents\Visual Studio 2015\Projects\Git\PerfectChannelCodeTest\Entities\bin\Debug\Entities.dll
+C:\Users\lcr\Documents\Visual Studio 2015\Projects\Git\PerfectChannelCodeTest\Entities\bin\Debug\Entities.pdb
+C:\Users\lcr\Documents\Visual Studio 2015\Projects\Git\PerfectChannelCodeTest\Entities\obj\Debug\Entities.dll
+C:\Users\lcr\Documents\Visual Studio 2015\Projects\Git\PerfectChannelCodeTest\Entities\obj\Debug\Entities.pdb

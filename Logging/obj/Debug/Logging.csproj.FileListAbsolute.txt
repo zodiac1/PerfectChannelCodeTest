@@ -1,0 +1,16 @@
+C:\Users\lcr\documents\visual studio 2015\Projects\PerfectChannelCodeTest\Logging\bin\Debug\NLog.config
+C:\Users\lcr\documents\visual studio 2015\Projects\PerfectChannelCodeTest\Logging\bin\Debug\Logging.dll
+C:\Users\lcr\documents\visual studio 2015\Projects\PerfectChannelCodeTest\Logging\bin\Debug\Logging.pdb
+C:\Users\lcr\documents\visual studio 2015\Projects\PerfectChannelCodeTest\Logging\bin\Debug\NLog.dll
+C:\Users\lcr\documents\visual studio 2015\Projects\PerfectChannelCodeTest\Logging\bin\Debug\NLog.xml
+C:\Users\lcr\documents\visual studio 2015\Projects\PerfectChannelCodeTest\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+C:\Users\lcr\documents\visual studio 2015\Projects\PerfectChannelCodeTest\Logging\obj\Debug\Logging.dll
+C:\Users\lcr\documents\visual studio 2015\Projects\PerfectChannelCodeTest\Logging\obj\Debug\Logging.pdb
+C:\Users\lcr\Documents\Visual Studio 2015\Projects\Git\PerfectChannelCodeTest\Logging\bin\Debug\NLog.config
+C:\Users\lcr\Documents\Visual Studio 2015\Projects\Git\PerfectChannelCodeTest\Logging\bin\Debug\Logging.dll
+C:\Users\lcr\Documents\Visual Studio 2015\Projects\Git\PerfectChannelCodeTest\Logging\bin\Debug\Logging.pdb
+C:\Users\lcr\Documents\Visual Studio 2015\Projects\Git\PerfectChannelCodeTest\Logging\bin\Debug\NLog.dll
+C:\Users\lcr\Documents\Visual Studio 2015\Projects\Git\PerfectChannelCodeTest\Logging\bin\Debug\NLog.xml
+C:\Users\lcr\Documents\Visual Studio 2015\Projects\Git\PerfectChannelCodeTest\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+C:\Users\lcr\Documents\Visual Studio 2015\Projects\Git\PerfectChannelCodeTest\Logging\obj\Debug\Logging.dll
+C:\Users\lcr\Documents\Visual Studio 2015\Projects\Git\PerfectChannelCodeTest\Logging\obj\Debug\Logging.pdb
